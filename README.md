@@ -1,5 +1,3 @@
-# OU Results Web Scraping Project
+# Mini Projects Repository
 
-## Description
-This project involves web scraping of OU (Osmania University) results using Python and BeautifulSoup. The script extracts and displays the results from the university's official website.
-
+This repository contains a collection of mini projects created while learning new technologies and tools.
